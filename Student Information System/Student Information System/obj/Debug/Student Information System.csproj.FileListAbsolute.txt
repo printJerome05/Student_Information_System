@@ -1,0 +1,825 @@
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\solutions visual studio\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\solutions visual studio\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan6\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan6\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan8\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan8\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\january 8 g1\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\january 8 complete manage student form\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan10\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan10\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan11\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan11\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan11com\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan11com\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan 13 = jan 12 full\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan16\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan16\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan17\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan17\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan17 copy copy\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan 17 complete\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan 27\jan 22 design\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan27 new design\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\jan28\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+D:\visual studio backup\jan28\Student Information System\Student Information System\obj\Debug\Student_Information_System.try.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+D:\visual studio backup\Defense\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.try.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+D:\visual studio backup\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.try.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\PC\Desktop\Defense\Student Information System\Student Information System\obj\Debug\Student Information System.pdb
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\Student Information System.exe.config
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\Student Information System.exe
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\Student Information System.pdb
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\ZstdNet.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.exe.config
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.AddStudent.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Archive.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Edit_RemoveForm.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Form1.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade1.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade2.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade3.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade4.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade5.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Grade6.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.ManageStudentForm.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Parent.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Print_Preview.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Properties.Resources.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.StatsForm.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentbtn.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.studentlist.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Student_Form.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.try.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student_Information_System.Viewer.resources
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.csproj.CopyComplete
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.exe
+C:\Users\PC\Desktop\Defense - Copy\Student Information System\Student Information System\obj\Debug\Student Information System.pdb

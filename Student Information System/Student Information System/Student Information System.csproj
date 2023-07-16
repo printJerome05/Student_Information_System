@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87178799-8B2F-420D-8B5C-FF770AD15332}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Student_Information_System</RootNamespace>
+    <AssemblyName>Student Information System</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.27.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudent.Designer.cs">
+      <DependentUpon>AddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Archive.Designer.cs">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Edit_RemoveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_RemoveForm.Designer.cs">
+      <DependentUpon>Edit_RemoveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade 1.Designer.cs">
+      <DependentUpon>Grade 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade2.Designer.cs">
+      <DependentUpon>Grade2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade3.Designer.cs">
+      <DependentUpon>Grade3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade4.Designer.cs">
+      <DependentUpon>Grade4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade5.Designer.cs">
+      <DependentUpon>Grade5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grade6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grade6.Designer.cs">
+      <DependentUpon>Grade6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageStudentForm.Designer.cs">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parent.Designer.cs">
+      <DependentUpon>Parent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Preview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Preview.Designer.cs">
+      <DependentUpon>Print_Preview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatsForm.Designer.cs">
+      <DependentUpon>StatsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentInformationSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentInformationSystem.Designer.cs">
+      <DependentUpon>StudentInformationSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentlist.Designer.cs">
+      <DependentUpon>studentlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Form.Designer.cs">
+      <DependentUpon>Student_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="try.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="try.Designer.cs">
+      <DependentUpon>try.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viewer.Designer.cs">
+      <DependentUpon>Viewer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddStudent.resx">
+      <DependentUpon>AddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Archive.resx">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_RemoveForm.resx">
+      <DependentUpon>Edit_RemoveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade 1.resx">
+      <DependentUpon>Grade 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade2.resx">
+      <DependentUpon>Grade2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade3.resx">
+      <DependentUpon>Grade3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade4.resx">
+      <DependentUpon>Grade4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade5.resx">
+      <DependentUpon>Grade5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grade6.resx">
+      <DependentUpon>Grade6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStudentForm.resx">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parent.resx">
+      <DependentUpon>Parent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Preview.resx">
+      <DependentUpon>Print_Preview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StatsForm.resx">
+      <DependentUpon>StatsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInformationSystem.resx">
+      <DependentUpon>StudentInformationSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentlist.resx">
+      <DependentUpon>studentlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Form.resx">
+      <DependentUpon>Student_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="try.resx">
+      <DependentUpon>try.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viewer.resx">
+      <DependentUpon>Viewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\login.png" />
+    <None Include="Resources\Actions-view-refresh-icon2.png" />
+    <None Include="Resources\Actions-view-refresh-icon1.png" />
+    <None Include="Resources\camera-icon1.png" />
+    <None Include="Resources\Printer-blue-icon.png" />
+    <None Include="Resources\Printer-icon %281%29.png" />
+    <None Include="Resources\Search-icon %281%293.png" />
+    <None Include="Resources\blue-archive-icon.png" />
+    <None Include="Resources\MicrosoftTeams-image %282%291.png" />
+    <None Include="Resources\MicrosoftTeams-image %282%29.png" />
+    <None Include="Resources\Close-icon.png" />
+    <None Include="Resources\Search-icon %281%292.png" />
+    <None Include="Resources\855601.png" />
+    <None Include="Resources\6518017791601551154-512.png" />
+    <None Include="Resources\9088447631595156046-64.png" />
+    <None Include="Resources\16065603701582967209-64.png" />
+    <None Include="Resources\17418544251595156174-64.png" />
+    <None Include="Resources\20263121251582967230-64.png" />
+    <None Include="Resources\14233754871582967215-64.png" />
+    <None Include="Resources\627124201595156037-64.png" />
+    <None Include="Resources\Female-icon %281%29.png" />
+    <None Include="Resources\Male-icon.png" />
+    <None Include="Resources\14280515501553508665-128.png" />
+    <None Include="Resources\People-icon %282%29.png" />
+    <None Include="Resources\edit-icon.png" />
+    <None Include="Resources\pencil-icon3.png" />
+    <None Include="Resources\Color-MS-Excel-icon.png" />
+    <None Include="Resources\Matte-Desktop-icon.png" />
+    <None Include="Resources\Matte-Desktop-icon %281%29.png" />
+    <None Include="Resources\download-icon.png" />
+    <None Include="Resources\upload-icon.png" />
+    <None Include="Resources\Search-icon %281%291.png" />
+    <None Include="Resources\print-icon1.png" />
+    <None Include="Resources\PngItem_641647.png" />
+    <None Include="Resources\Xyckg8oTE.png" />
+    <None Include="Resources\Search-icon %281%29.png" />
+    <None Include="Resources\Search-icon.png" />
+    <None Include="Resources\folder-icon.png" />
+    <None Include="Resources\pencil-icon2.png" />
+    <None Include="Resources\pencil-icon1.png" />
+    <None Include="Resources\Pencil-icon %281%29.png" />
+    <None Include="Resources\Actions-view-refresh-icon.png" />
+    <None Include="Resources\House-icon.png" />
+    <None Include="Resources\home-icon.png" />
+    <None Include="Resources\archive-icon1.png" />
+    <None Include="Resources\archive-icon.png" />
+    <None Include="Resources\Numbers-6-Black-icon.png" />
+    <None Include="Resources\Numbers-5-Black-icon.png" />
+    <None Include="Resources\Numbers-4-Black-icon.png" />
+    <None Include="Resources\Numbers-3-Black-icon.png" />
+    <None Include="Resources\Numbers-2-Black-icon.png" />
+    <None Include="Resources\Numbers-1-Black-icon.png" />
+    <None Include="Resources\print-icon.png" />
+    <None Include="Resources\stat-icon.png" />
+    <None Include="Resources\Folder-Profiles-icon.png" />
+    <None Include="Resources\pencil-icon.png" />
+    <None Include="Resources\phonebook-icon.png" />
+    <None Include="Resources\Bulleted-List-icon1.png" />
+    <None Include="Resources\addition-icon.png" />
+    <None Include="Resources\attach-2-icon.png" />
+    <None Include="Resources\analytics-icon.png" />
+    <None Include="Resources\contact-icon.png" />
+    <None Include="Resources\blue-home-icon %281%29.png" />
+    <None Include="Resources\blue-home-icon.png" />
+    <None Include="Resources\Bell-icon.png" />
+    <None Include="Resources\Teacher-female-icon.png" />
+    <None Include="Resources\Teacher-male-icon.png" />
+    <None Include="Resources\Test-paper-icon %281%29.png" />
+    <None Include="Resources\Test-paper-icon.png" />
+    <None Include="Resources\Student-id-icon1.png" />
+    <None Include="Resources\Student-id-icon.png" />
+    <None Include="Resources\camera-icon.png" />
+    <None Include="Resources\Bulleted-List-icon.png" />
+    <None Include="Resources\Food-List-Ingredients-icon.png" />
+    <None Include="Resources\Network-Shield-icon.png" />
+    <None Include="Resources\contacts-icon.png" />
+    <None Include="Resources\Women-icon.png" />
+    <None Include="Resources\Men-icon.png" />
+    <None Include="Resources\ID-3-icon %281%291.png" />
+    <None Include="Resources\ID-3-icon %281%29.png" />
+    <None Include="Resources\ID-3-icon.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview %281%294.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview %281%293.png" />
+    <None Include="Resources\User-Interface-Logout-icon.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview %281%292.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview %281%291.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n5.jpg" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n4.jpg" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n3.jpg" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n2.jpg" />
+    <None Include="Resources\key-48.png" />
+    <None Include="Resources\user-2-48.png" />
+    <None Include="Resources\icons8-name-100.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview %281%29.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview1.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n-removebg-preview.png" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n1.jpg" />
+    <None Include="Resources\269914433_1367277337047661_8346446409289561465_n.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
